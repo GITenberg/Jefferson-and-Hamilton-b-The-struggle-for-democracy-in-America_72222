@@ -1,0 +1,36 @@
+_repo: Jefferson-and-Hamilton-b-The-struggle-for-democracy-in-America_72222
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bowers, Claude G. (Claude Gernade)
+    alias: Bowers, Claude Gernade
+    birthdate: 1878
+    deathdate: 1958
+    gutenberg_agent_id: '56598'
+    url: http://www.gutenberg.org/2009/agents/56598
+    wikipedia: https://en.wikipedia.org/wiki/Claude_G._Bowers
+description: ''
+gutenberg_issued: '2023-11-25'
+identifiers:
+  gutenberg: '72222'
+language: en
+pgterms:marc904: https://archive.org/details/jeffersonhamilto00bowe_2
+pgterms:marc905: 20220813075747bowers
+pgterms:marc906: '1925'
+pgterms:marc907: US
+production_note: Chuck Greif and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aNYC :$bHoughton Mifflin Company, $c1925.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Jefferson, Thomas, 1743-1826'
+- !lcsh 'Democracy -- United States'
+- !lcsh 'Hamilton, Alexander, 1757-1804'
+- !lcsh 'United States -- Politics and government -- 1789-1797'
+- !lcsh 'United States -- Politics and government -- 1797-1801'
+- !lcc 'E300'
+- GITenberg
+title: 'Jefferson and Hamilton : $b The struggle for democracy in America'
+url: http://www.gutenberg.org/ebooks/72222
